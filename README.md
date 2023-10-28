@@ -1,5 +1,5 @@
 # Readme
-<h1 align="center">Hi 😎 Mi name is Juan Diego G but somepeople call me Chochi"</h1>
+<h1 align="center">Hi 😎 Mi name is Juan Diego G but somepeople call me Chochi</h1>
 <h3 align="center">I’m from Colombia 💛💙💓 and my life is based in 5 words. Cats eating pasta while programing 😼💻🍝</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamagege&label=Profile%20views&color=ec4b4b&style=plastic" alt="mamagege" /> </p>
